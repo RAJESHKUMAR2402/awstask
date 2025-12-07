@@ -1,0 +1,1 @@
+Amazon linux AMI is used for EC2 instance with t2.micro configuration for free  tire usage content is from S3 bucket only for ec2,Script for NGINX setup is done through the script,instace takes content from s3 ,Security Group is used for SSH  and HTTP access

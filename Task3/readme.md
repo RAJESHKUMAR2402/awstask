@@ -1,0 +1,1 @@
+Same EC2 setup from task2 but in private subnet only accessible by load balancer, auto scaling done for handling traffic with high volume of servers only when needed,since servers are in two availability zone they usually don't go down in most of the scenarios 
